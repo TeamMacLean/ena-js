@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SAMPLE_SET>
+   <SAMPLE alias="NGS-RGCB_waterPolo" center_name="EBI">
+      <TITLE>Sample from one of the NGS course participants</TITLE>
+      <SAMPLE_NAME>
+         <TAXON_ID>9606</TAXON_ID>
+         <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+      </SAMPLE_NAME>
+      <DESCRIPTION>NGS location, sample collected on 30th Oct 2013</DESCRIPTION>
+      <SAMPLE_ATTRIBUTES>
+         <SAMPLE_ATTRIBUTE>
+            <TAG>ENA-CHECKLIST</TAG>
+            <VALUE>ERC000011</VALUE>
+         </SAMPLE_ATTRIBUTE>
+      </SAMPLE_ATTRIBUTES>
+   </SAMPLE>
+</SAMPLE_SET>

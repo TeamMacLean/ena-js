@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SUBMISSION_SET>
+    <SUBMISSION alias="Submission-publishing_waterPolo" center_name="EBI" submission_date="2014-09-19T10:00:00Z">    
+    <ACTIONS>
+         <ACTION>
+              <RELEASE target="insert sample accession here"/>
+          </ACTION>
+    </ACTIONS>
+</SUBMISSION>
+</SUBMISSION_SET>

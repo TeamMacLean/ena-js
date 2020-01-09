@@ -1,0 +1,23 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ANALYSIS_SET>
+   <ANALYSIS alias="NGS-RGCB_waterPolo" center_name="EBI">
+      <TITLE>Alignment BAM aligning reads in Illumina </TITLE>
+      <DESCRIPTION>Here we use comparative transcriptomics to characterize the evolutionary adaptation of the fungus </DESCRIPTION>
+      <STUDY_REF refname="NGS-RGCB_waterPolo"/>
+      
+      <SAMPLE_REF refname="NGS-RGCB_waterPolo"/>
+      <ANALYSIS_TYPE>
+         <REFERENCE_ALIGNMENT>           
+            <ASSEMBLY>
+               <STANDARD accession="GCA_000149035.1" refname="C_graminicola_M1_001_V1"/>
+            </ASSEMBLY>
+            <SEQUENCE accession="GG697609.1" label="GG697609"/>
+            <SEQUENCE accession="ACOD01000654.1" label="GG697608"/>
+            <SEQUENCE accession="ACOD01000653.1" label="GG697607"/>
+         </REFERENCE_ALIGNMENT>
+      </ANALYSIS_TYPE>
+      <FILES>
+         <FILE filename="waterPolo_analysis.bam" filetype="bam" checksum_method="MD5" checksum="57d4864fbb781dceafd814d93d183909"/>
+      </FILES>
+   </ANALYSIS>   
+</ANALYSIS_SET>

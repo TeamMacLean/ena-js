@@ -3,6 +3,4 @@ node_modules/
 build/
 dist/
 
-
-DEV/
 internal_test.js
