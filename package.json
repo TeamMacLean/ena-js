@@ -1,0 +1,28 @@
+{
+  "name": "ena",
+  "version": "1.0.0",
+  "description": "ENA lib",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "parcel build src/index.js -d dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamMacLean/ena-js.git"
+  },
+  "keywords": [
+    "ena",
+    "science",
+    "bioinformatics"
+  ],
+  "author": "Martin Page",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeamMacLean/ena-js/issues"
+  },
+  "homepage": "https://github.com/TeamMacLean/ena-js#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
