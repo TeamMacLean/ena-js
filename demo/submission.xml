@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SUBMISSION alias="NGS-RGCB_waterPolo" center_name="EBI">
+	<ACTIONS>
+		<ACTION>
+			<VALIDATE source="study.xml" schema="study"/>
+		</ACTION>
+		<ACTION>
+			<VALIDATE source="sample.xml" schema="sample"/>
+		</ACTION>
+		<ACTION>
+			<VALIDATE source="experiment.xml" schema="experiment"/>
+		</ACTION>
+		<ACTION>
+			<VALIDATE source="run.xml" schema="run"/>
+		</ACTION>
+		<ACTION>
+			<HOLD HoldUntilDate="2020-03-07Z"/>
+		</ACTION>
+	</ACTIONS>
+</SUBMISSION>

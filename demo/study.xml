@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<STUDY_SET>
+   <STUDY alias="NGS-RGCB_waterPolo" center_name="EBI">
+      <DESCRIPTOR>
+         <CENTER_PROJECT_NAME>Training study submission</CENTER_PROJECT_NAME>
+         <STUDY_TITLE>Sequencing data of different participants of the NGS course</STUDY_TITLE>
+         <STUDY_TYPE existing_study_type="Whole Genome Sequencing"/>
+         <STUDY_ABSTRACT>Sequencing data of different participants of the NGS
+            course</STUDY_ABSTRACT>
+      </DESCRIPTOR>
+      <STUDY_ATTRIBUTES>
+         <STUDY_ATTRIBUTE>
+            <TAG>Number of sequences</TAG>
+            <VALUE>30</VALUE>
+         </STUDY_ATTRIBUTE>
+      </STUDY_ATTRIBUTES>
+   </STUDY>
+</STUDY_SET>
