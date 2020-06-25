@@ -7,20 +7,5 @@
             <FILE filename="waterPolo.bam" filetype="bam" checksum_method="MD5" checksum="72334567890123456789012345678912"> </FILE>
          </FILES>
       </DATA_BLOCK>
-      <RUN_ATTRIBUTES>
-         <RUN_ATTRIBUTE>
-            <TAG>run</TAG>
-            <VALUE>062</VALUE>
-         </RUN_ATTRIBUTE>
-         <RUN_ATTRIBUTE>
-            <TAG>total_bases</TAG>
-            <VALUE>42148584</VALUE>
-            <UNITS>bp</UNITS>
-         </RUN_ATTRIBUTE>
-         <RUN_ATTRIBUTE>
-            <TAG>actual_read_length</TAG>
-            <VALUE>36</VALUE>
-         </RUN_ATTRIBUTE>
-      </RUN_ATTRIBUTES>
    </RUN>
 </RUN_SET>
