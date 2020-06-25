@@ -1,6 +1,6 @@
 // connect to FTP
 
-// upload file into /komondor with UUID name (123456.fq.gz) and keep record of new name
+// upload file (waterpolo.bam) into /komondor with UUID name (123456.bam) and keep record of new name
 
 //VALIDATE study
 //ADD study
